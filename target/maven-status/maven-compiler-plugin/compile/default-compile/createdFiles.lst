@@ -1,0 +1,7 @@
+com\ogl\devtest\DevtestApplication.class
+com\ogl\devtest\product\ProductRepository.class
+com\ogl\devtest\customer\CustomerController.class
+com\ogl\devtest\product\ProductController.class
+com\ogl\devtest\customer\CustomerRepository.class
+com\ogl\devtest\customer\Customer.class
+com\ogl\devtest\product\Product.class
