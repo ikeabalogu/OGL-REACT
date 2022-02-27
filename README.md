@@ -51,6 +51,10 @@ mvn spring-boot:run
 ```
 The backend will now be available to consume from http://localhost:8080.
 
+CD into react_frontend
+Run npm start
+
+
 ## Submission
 Package all your sources into a zip or tarball with instructions on how
 to run your frontend.
